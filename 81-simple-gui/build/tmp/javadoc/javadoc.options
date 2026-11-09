@@ -1,0 +1,8 @@
+-classpath 'C:\\Users\\filippo.renzi2\\Desktop\\lab08\\81-simple-gui\\build\\classes\\java\\main;C:\\Users\\filippo.renzi2\\Desktop\\lab08\\81-simple-gui\\build\\resources\\main'
+-quiet 
+-d 'C:\\Users\\filippo.renzi2\\Desktop\\lab08\\81-simple-gui\\build\\docs\\javadoc'
+-windowtitle '81-simple-gui API'
+-doctitle '81-simple-gui API'
+-notimestamp 
+-Xwerror '-quiet'
+'C:\\Users\\filippo.renzi2\\Desktop\\lab08\\81-simple-gui\\src\\main\\java\\it\\unibo\\mvc\\MiniGUI.java'
